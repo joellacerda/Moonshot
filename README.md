@@ -15,16 +15,17 @@ This project also serves as a practical introduction for developers to learn JSO
 ## 🚀 Technologies Used  
 - Swift  
 - SwiftUI  
-- JSON Parsing  
+- JSON Parsing
+
+## 💡 Key Learnings  
+Developing Moonshot focused on:  
+- Parsing JSON data and converting it into Swift models.  
+- Building reusable and well-organized SwiftUI layouts.  
+- Navigating and managing data flow between views.  
 
 ## 📸 Screenshots  
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/3bbae979-6a70-48b2-9b8d-d7dd88ee4c57">
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/ddc94174-862a-4337-9e39-2bf5af248a48">
-
-## 🗂️ Project Structure  
-- **Model**: Contains structs for handling JSON data, such as `Mission` and `Astronaut`.  
-- **Views**: Includes all the app's screens, such as `MissionListView` and `MissionDetailView`.  
-- **Data**: Stores JSON files containing mission and astronaut information.  
 
 ## 📦 How to Run  
 1. Clone the repository:  
@@ -34,12 +35,6 @@ This project also serves as a practical introduction for developers to learn JSO
 2. Open the project in Xcode.  
 3. Connect a compatible simulator or physical device.  
 4. Run the project by clicking "Run" or pressing `Cmd + R`.  
-
-## 💡 Key Learnings  
-Developing Moonshot focused on:  
-- Parsing JSON data and converting it into Swift models.  
-- Building reusable and well-organized SwiftUI layouts.  
-- Navigating and managing data flow between views.  
 
 ## 🏆 Credits  
 This project is based on the *[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)* course by Paul Hudson.  
